@@ -18,6 +18,15 @@ i0.ɵɵngDeclareClassMetadata({ minVersion: "12.0.0", version: "20.3.10", ngImpo
   ` }]
         }] });
 
+class Dddd {
+    static ɵfac = i0.ɵɵngDeclareFactory({ minVersion: "12.0.0", version: "20.3.10", ngImport: i0, type: Dddd, deps: [], target: i0.ɵɵFactoryTarget.Component });
+    static ɵcmp = i0.ɵɵngDeclareComponent({ minVersion: "14.0.0", version: "20.3.10", type: Dddd, isStandalone: true, selector: "ttl-dddd", ngImport: i0, template: "<p>dddd works!</p>\r\n", styles: [""] });
+}
+i0.ɵɵngDeclareClassMetadata({ minVersion: "12.0.0", version: "20.3.10", ngImport: i0, type: Dddd, decorators: [{
+            type: Component,
+            args: [{ selector: 'ttl-dddd', imports: [], template: "<p>dddd works!</p>\r\n" }]
+        }] });
+
 /*
  * Public API Surface of libi-liba
  */
@@ -26,5 +35,5 @@ i0.ɵɵngDeclareClassMetadata({ minVersion: "12.0.0", version: "20.3.10", ngImpo
  * Generated bundle index. Do not edit.
  */
 
-export { LibiLiba };
+export { Dddd, LibiLiba };
 //# sourceMappingURL=libi-liba.mjs.map
