@@ -5,7 +5,7 @@ class LibiLiba {
     static ɵfac = i0.ɵɵngDeclareFactory({ minVersion: "12.0.0", version: "20.3.10", ngImport: i0, type: LibiLiba, deps: [], target: i0.ɵɵFactoryTarget.Component });
     static ɵcmp = i0.ɵɵngDeclareComponent({ minVersion: "14.0.0", version: "20.3.10", type: LibiLiba, isStandalone: true, selector: "ttl-libi-liba", ngImport: i0, template: `
     <p>
-      libi-liba works!
+      libi-liba worksssss!
     </p>
   `, isInline: true, styles: [""] });
 }
@@ -13,7 +13,7 @@ i0.ɵɵngDeclareClassMetadata({ minVersion: "12.0.0", version: "20.3.10", ngImpo
             type: Component,
             args: [{ selector: 'ttl-libi-liba', imports: [], template: `
     <p>
-      libi-liba works!
+      libi-liba worksssss!
     </p>
   ` }]
         }] });
